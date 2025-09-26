@@ -6,13 +6,16 @@ Aspiring IT professional with a background in programming, networking, and cloud
 I enjoy building systems and collaborating on technical projects.
 
 ## 🔧 Skills
-![GitLab/GitHub](https://img.shields.io/badge/GitLab%2FGitHub-Proficient-blue)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Proficient-blue)
-![Linux](https://img.shields.io/badge/Linux-Proficient-blue)
-![PowerShell%20/%20Bash](https://img.shields.io/badge/PowerShell%20%2F%20Bash-Proficient-blue)
-![Wireshark](https://img.shields.io/badge/Wireshark-Proficient-blue)
-![MySQL/PostgreSQL](https://img.shields.io/badge/MySQL%2FPostgreSQL-Basic-lightgrey)
-![MongoDB](https://img.shields.io/badge/MongoDB-Basic-lightgrey)
+![GitLab](https://img.shields.io/badge/-GitLab-E34F26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/-PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1BA1E2?style=for-the-badge&logo=wireshark&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📂 Featured Projects
 - [TCP/UDP Networking System](https://github.com/CthulhuSpecimen/tcp-udp-networking) – Multithreaded client-server system in Python.
