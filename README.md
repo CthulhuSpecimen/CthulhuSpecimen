@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Maxmillion 👋
+# Hi, I'm Maxmillion! 👋
 
 <img src="images/me.jpg" alt="Maxmillion Maldonado" width="200" align="right" />
 
@@ -8,11 +6,13 @@ Aspiring IT professional with a background in programming, networking, and cloud
 I enjoy building systems and collaborating on technical projects.
 
 ## 🔧 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitLab/GitHub](https://img.shields.io/badge/GitLab%2FGitHub-Proficient-blue)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Proficient-blue)
+![Linux](https://img.shields.io/badge/Linux-Proficient-blue)
+![PowerShell%20/%20Bash](https://img.shields.io/badge/PowerShell%20%2F%20Bash-Proficient-blue)
+![Wireshark](https://img.shields.io/badge/Wireshark-Proficient-blue)
+![MySQL/PostgreSQL](https://img.shields.io/badge/MySQL%2FPostgreSQL-Basic-lightgrey)
+![MongoDB](https://img.shields.io/badge/MongoDB-Basic-lightgrey)
 
 ## 📂 Featured Projects
 - [TCP/UDP Networking System](https://github.com/CthulhuSpecimen/tcp-udp-networking) – Multithreaded client-server system in Python.
@@ -25,5 +25,3 @@ I enjoy building systems and collaborating on technical projects.
 
 ## 📫 Contact
 - Email: maxxm03@gmail.com
-- Portfolio: [portfolio.com](http://portfolio.com)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
