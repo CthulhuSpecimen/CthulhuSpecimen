@@ -18,7 +18,7 @@ I enjoy building systems and collaborating on technical projects.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📂 Featured Projects
-- [TCP/UDP Networking System](https://github.com/CthulhuSpecimen/tcp-udp-networking) – Multithreaded client-server system in Python.
+- [TCP/UDP Networking System](https://github.com/CthulhuSpecimen/TCP-UDP-Client-Server) – Multithreaded client-server system in Python.
 - [Steamwell (3D Narrative Puzzle Game)](https://github.com/CthulhuSpecimen/steamwell) – Unreal Engine project with real-time systems integration.
 - [Putr Worm (2D Shooter Platformer)](https://github.com/CthulhuSpecimen/putr-worm) – Godot Engine project with automated build pipeline.
 
