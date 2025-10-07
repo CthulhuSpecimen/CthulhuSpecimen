@@ -19,6 +19,7 @@ I enjoy building systems and collaborating on technical projects.
 
 ## 📂 Featured Projects
 - [TCP/UDP Networking System](https://github.com/CthulhuSpecimen/TCP-UDP-Client-Server) – Multithreaded client-server system in Python.
+- [Proxy](https://github.com/CthulhuSpecimen/http_proxy) – Proxy
 - [Steamwell (3D Narrative Puzzle Game)](https://github.com/CthulhuSpecimen/steamwell) – Unreal Engine project with real-time systems integration.
 - [Putr Worm (2D Shooter Platformer)](https://github.com/CthulhuSpecimen/putr-worm) – Godot Engine project with automated build pipeline.
 
