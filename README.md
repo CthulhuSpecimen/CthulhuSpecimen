@@ -4,9 +4,6 @@
   <img src="assets/GreetingGif.gif" alt="Typing Hello" width="800" />
 </p>
 
-Aspiring IT professional with a background in programming, networking, and cloud technologies.  
-I enjoy building systems and collaborating on technical projects.
-
 ## 🔧 Skills
 ![GitLab](https://img.shields.io/badge/-GitLab-E34F26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -24,10 +21,6 @@ I enjoy building systems and collaborating on technical projects.
 - [Proxy](https://github.com/CthulhuSpecimen/http_proxy) – Proxy
 - [Steamwell (3D Narrative Puzzle Game)](https://github.com/CthulhuSpecimen/steamwell) – Unreal Engine project with real-time systems integration.
 - [Putr Worm (2D Shooter Platformer)](https://github.com/CthulhuSpecimen/putr-worm) – Godot Engine project with automated build pipeline.
-
-## 📈 GitHub Stats
-![CthulhuSpecimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=CthulhuSpecimen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CthulhuSpecimen&layout=compact)
 
 ## 📫 Contact
 - Email: maxxm03@gmail.com
