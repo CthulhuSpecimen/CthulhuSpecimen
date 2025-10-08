@@ -1,5 +1,3 @@
-# Hi, I'm Maxmillion! 👋
-
 <p align="center">
   <img src="assets/GreetingGif.gif" alt="Typing Hello" width="900" />
 </p>
