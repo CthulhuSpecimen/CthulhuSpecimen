@@ -16,6 +16,7 @@
 
 ### 🌐 Networking / Security
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1BA1E2?style=for-the-badge&logo=wireshark&logoColor=white)
+![PuTTY](https://img.shields.io/badge/-PuTTY-333333?style=for-the-badge&logo=putty&logoColor=white)
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
