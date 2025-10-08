@@ -7,30 +7,22 @@
 ## 🔧 Skills
 
 ### 🛠 Version Control / DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/-GitLab-E34F26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
+![GitLab](https://img.shields.io/badge/-GitLab-E34F26?style=for-the-badge&logo=gitlab&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 💻 Operating Systems / Scripting
-<p align="center">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![PowerShell](https://img.shields.io/badge/-PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🌐 Networking / Security
-<p align="center">
-  <img src="https://img.shields.io/badge/-Wireshark-1BA1E2?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
+![Wireshark](https://img.shields.io/badge/-Wireshark-1BA1E2?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 🗄 Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ## 📂 Featured Projects
