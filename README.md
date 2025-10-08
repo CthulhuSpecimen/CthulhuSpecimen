@@ -1,6 +1,8 @@
 # Hi, I'm Maxmillion! 👋
 
-<img src="assets/GreetingGif.gif" alt="Typing Hello" width="300" align="right" />
+<p align="center">
+  <img src="assets/GreetingGif.gif" alt="Typing Hello" width="800" />
+</p>
 
 Aspiring IT professional with a background in programming, networking, and cloud technologies.  
 I enjoy building systems and collaborating on technical projects.
