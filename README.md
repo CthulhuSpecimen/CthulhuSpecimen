@@ -14,7 +14,7 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🌐 Networking / Security
+### 🌐 Networking
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1BA1E2?style=for-the-badge&logo=wireshark&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/-PuTTY-333333?style=for-the-badge&logo=putty&logoColor=white)
 
