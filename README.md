@@ -28,7 +28,6 @@
 - [TCP/UDP Networking System](https://github.com/CthulhuSpecimen/TCP-UDP-Client-Server) – Multithreaded client-server system in Python.
 - [Proxy](https://github.com/CthulhuSpecimen/http_proxy) – Multithreaded HTTP/HTTPS Proxy Server in Python.
 - [Steamwell (3D Narrative Puzzle Game)](https://github.com/CthulhuSpecimen/steamwell) – Unreal Engine project with real-time systems integration.
-- [Putr Worm (2D Shooter Platformer)](https://github.com/CthulhuSpecimen/putr-worm) – Godot Engine project with automated build pipeline.
 
 ## 📫 Contact
 - Email: maxxm03@gmail.com
